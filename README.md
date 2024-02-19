@@ -20,7 +20,7 @@ Flask Color Extractor is a web application that extracts colors from an uploaded
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/flask-color-extractor.git
+    git clone https://github.com/Hemantraj19/Image-Color-Extractor.git
     ```
 
 2. Navigate to the project directory:
