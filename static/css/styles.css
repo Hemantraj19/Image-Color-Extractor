@@ -1,0 +1,32 @@
+body {
+    margin-top: 100px;
+}
+
+form {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("../img/pexels-min-an-1638501.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Custom CSS for color boxes */
+.color-box {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
